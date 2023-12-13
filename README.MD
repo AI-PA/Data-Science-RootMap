@@ -23,7 +23,7 @@ Algunos cursos estarán pasados por examen debido a que se empalman o sobreponen
 |Curso   | Estatus   | Proyecto  |
 |---|---|---|
 | Fundamentos de Python  | Finalizado  |Pasado por examen   |
-| Python Comprehensions, Funciones y Manejo de Errores |Finalizado   | Pendiente de Realizar  |
+| Python Comprehensions, Funciones y Manejo de Errores |Finalizado   | [Proyecto](https://github.com/AI-PA/Python_ChatGPT_EX)  |
 | Introducción a la Terminal y Linea de Comandos  |  Finalizado | [Proyecto](https://github.com/AI-PA/Amateur_Terminal)  |
 
 ## Análisis de datos con Python
