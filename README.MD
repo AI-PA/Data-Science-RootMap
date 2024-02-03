@@ -33,7 +33,7 @@ Algunos cursos estarán pasados por examen debido a que se empalman o sobreponen
 |Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda|Finalizado|[Proyecto](https://github.com/AI-PA/DataScience_Work_Environment) |
 |Principios de Visualización de Datos para Business Intelligence |Finalizado|Pasado por Examen|
 |Manipulación y Transformación de Datos con Pandas y NumPy|**En Curso**||
-|Visualización de Datos con Matplotlib y Seaborn|||
+|Visualización de Datos con Matplotlib y Seaborn|**En Curso**||
 |Funciones Matemáticas para Data Science e Inteligencia Artificial|||
 |Matemáticas para Data Science: Estadística Descriptiva|||
 |Matemáticas para Data Science: Probabilidad|||
@@ -58,7 +58,7 @@ Algunos cursos estarán pasados por examen debido a que se empalman o sobreponen
 |Decision Trees y Random Forest con Python y scikit-learn|||
 |Clustering con Python y scikit-learn|||
 |Curso Profesional de Machine Learning con scikit-learn|||
-|Fundamentos de Bases de Datos|||
+|Fundamentos de Bases de Datos|**En Curso**||
 |PostgreSQL|||
 |Curso Práctico de SQL|||
 |PostgreSQL Aplicado a Ciencia de Datos|||
