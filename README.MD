@@ -32,7 +32,7 @@ Algunos cursos estarán pasados por examen debido a que se empalman o sobreponen
 |---     |---        |---        |
 |Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda|Finalizado|[Proyecto](https://github.com/AI-PA/DataScience_Work_Environment) |
 |Principios de Visualización de Datos para Business Intelligence |Finalizado|Pasado por Examen|
-|Manipulación y Transformación de Datos con Pandas y NumPy|**En Curso**||
+|Manipulación y Transformación de Datos con Pandas y NumPy|Finalizado|[Proyecto y Notas](https://github.com/AI-PA/Numpy_Pandas)|
 |Visualización de Datos con Matplotlib y Seaborn|**En Curso**||
 |Funciones Matemáticas para Data Science e Inteligencia Artificial|||
 |Matemáticas para Data Science: Estadística Descriptiva|||
