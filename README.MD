@@ -58,7 +58,7 @@ Algunos cursos estarán pasados por examen debido a que se empalman o sobreponen
 |Decision Trees y Random Forest con Python y scikit-learn|||
 |Clustering con Python y scikit-learn|||
 |Curso Profesional de Machine Learning con scikit-learn|||
-|Fundamentos de Bases de Datos|**En Curso**||
+|Fundamentos de Bases de Datos| Finalizado|[Notas](https://github.com/AI-PA/DB_SQL)|
 |PostgreSQL|||
 |Curso Práctico de SQL|||
 |PostgreSQL Aplicado a Ciencia de Datos|||
