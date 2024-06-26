@@ -34,7 +34,7 @@ Algunos cursos estarán pasados por examen debido a que se empalman o sobreponen
 |Principios de Visualización de Datos para Business Intelligence |Finalizado|Pasado por Examen|
 |Manipulación y Transformación de Datos con Pandas y NumPy|Finalizado|[Proyecto y Notas](https://github.com/AI-PA/Numpy_Pandas)|
 |Visualización de Datos con Matplotlib y Seaborn| Finalizado|[ Proyecto y Notas](https://github.com/AI-PA/Matplotlib-Seaborn)|
-|Funciones Matemáticas para Data Science e Inteligencia Artificial|**En Curso**||
+|Funciones Matemáticas para Data Science e Inteligencia Artificial|Finalizado| Pasado por examen [Notas](https://github.com/AI-PA/Intro-Data-Science-funciones.git)|
 |Matemáticas para Data Science: Estadística Descriptiva|||
 |Matemáticas para Data Science: Probabilidad|||
 |Análisis Exploratorio de Datos|||
