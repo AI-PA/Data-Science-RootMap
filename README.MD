@@ -12,9 +12,7 @@ Teniendo como objetivo formarme de manera para poder aplicar a un trabajo relaci
 
 En cada una de estas partes se compone a su vez de mas cursos con el objetivo de ir aprendiendo de poco en poco la ciencia de datos.
 
-Como propósito personal decidí crear proyectos para practicar lo aprendido y dejar este repositorio como una guía hacia mi camino en ciencia de datos donde ire marcando mi progreso de poco en poco hasta terminar la ruta completa dedicándole mi tiempo libre entre practicas y universidad.
-
-Asi que empecemos o(*￣▽￣*)ブ
+Como propósito personal decidí crear proyectos para practicar lo aprendido y dejar este repositorio como una guía hacia mi camino en ciencia de datos donde ire marcando mi progreso de poco en poco hasta terminar la ruta completa
 
 Algunos cursos estarán pasados por examen debido a que se empalman o sobreponen a otras rutas que estoy tomando como lo es Data Analytics o Business Intelligence.
 
